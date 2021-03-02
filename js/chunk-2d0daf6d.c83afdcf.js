@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0daf6d"],{"6e9a":function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("b-container",{attrs:{fluid:""}},[e("b-row",[e("b-col",{attrs:{sm:"12"}},[e("h5",[n._v("Economic Calendar")])])],1)],1)},c=[],r={},l=r,o=e("2877"),s=Object(o["a"])(l,a,c,!1,null,null,null);t["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0daf6d.c83afdcf.js.map
